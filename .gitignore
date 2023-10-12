@@ -1,3 +1,4 @@
+# exlude build
 build/
 *.o
 *.dll
